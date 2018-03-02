@@ -37,5 +37,7 @@ public class SinhVien {
 	public void setsXepLoai(String sXepLoai) {
 		this.sXepLoai = sXepLoai;
 	}
+	public void setName() {}
+	
 
 }
